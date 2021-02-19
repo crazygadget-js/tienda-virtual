@@ -1,0 +1,14 @@
+.Header{
+    width: 100%; 
+    height: 80px;
+    background-color: aqua; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin: 20px auto;
+} 
+.Header-alert {
+    color: #33b13a;
+    font-size: 14px;
+    margin-left: 5px;
+  }
